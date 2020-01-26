@@ -1,7 +1,7 @@
 require_relative 'lib/gem_sample_pruby/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "gem_sample_pruby"
+  spec.name          = "ryan_sample_gem"
   spec.version       = GemSamplePruby::VERSION
   spec.authors       = ["ryancha1205"]
   spec.email         = ["herkas413@naver.com"]
