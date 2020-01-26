@@ -8,14 +8,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{gemfie practice}
   spec.description   = %q{practice gemfile}
-  # spec.homepage      = "https://github.com/ryancha1205/gemtest"
+  spec.homepage      = "https://github.com/ryancha1205/gemtest"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "Set to 'https://github.com/ryancha1205/gemtest'"
+  # spec.metadata["allowed_push_host"] = "Set to 'https://github.com/ryancha1205/gemtest'"
 
   # spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/ryancha1205/gemtest"
+  # spec.metadata["source_code_uri"] = "https://github.com/ryancha1205/gemtest"
   # spec.metadata["changelog_uri"] = "Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
