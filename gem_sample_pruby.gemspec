@@ -3,19 +3,19 @@ require_relative 'lib/gem_sample_pruby/version'
 Gem::Specification.new do |spec|
   spec.name          = "gem_sample_pruby"
   spec.version       = GemSamplePruby::VERSION
-  spec.authors       = ["ryancha"]
+  spec.authors       = ["ryancha1205"]
   spec.email         = ["herkas413@naver.com"]
 
   spec.summary       = %q{gemfie practice}
   spec.description   = %q{practice gemfile}
-  # spec.homepage      = "https://fortunetorch.com"
+  # spec.homepage      = "https://github.com/ryancha1205/gemtest"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "Set to 'https://github.com/ryancha1205/gemtest'"
 
   # spec.metadata["homepage_uri"] = spec.homepage
-  # spec.metadata["source_code_uri"] = "Put your gem's public repo URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/ryancha1205/gemtest"
   # spec.metadata["changelog_uri"] = "Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
